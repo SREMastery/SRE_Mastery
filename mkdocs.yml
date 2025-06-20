@@ -1,0 +1,7 @@
+site_name: SRE Mastery
+theme: 
+  name: material
+  logo: assets/logo.png
+  favicon: assets/logo.png
+repo_url: https://github.com/SREMastery/SRE_Mastery
+repo_name: SRE Mastery
