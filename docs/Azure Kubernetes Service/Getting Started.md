@@ -1,10 +1,10 @@
 ---
-title: Azure Kubernetes Services
+title: Getting Started with AKS (Azure Kubernetes Services)
 ---
 
 # Azure Kubernetes Services
 
-Welcome to the comprehensive Kubernetes 101 guide! This series will take you from the basics of Kubernetes to advanced concepts, with a focus on Azure Kubernetes Service (AKS).
+Welcome to the comprehensive Kubernetes guide! This series will take you from the basics of Kubernetes to advanced concepts, with a focus on Azure Kubernetes Service (AKS).
 
 ## Table of Contents
 
